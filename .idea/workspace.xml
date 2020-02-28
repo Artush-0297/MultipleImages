@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67e4bd3d-d39b-4451-a3b7-2378e4ab09ef" name="Default Changelist" comment="" />
+    <list default="true" id="67e4bd3d-d39b-4451-a3b7-2378e4ab09ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/main/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/main/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Header/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Header/header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Images/Images.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Insert/Insert.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/routes/routes.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +32,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -114,6 +129,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1Y4gvQwWjJy2ZZIOa9PggNs5A0g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -121,8 +137,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel-chunk-upload-1.3.0" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -182,7 +199,7 @@
       <workItem from="1582267924505" duration="772000" />
       <workItem from="1582875370451" duration="911000" />
       <workItem from="1582876353348" duration="435000" />
-      <workItem from="1582876823203" duration="16907000" />
+      <workItem from="1582876823203" duration="23987000" />
     </task>
     <servers />
   </component>
@@ -198,10 +215,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="622" y="177" width="690" height="685" key="#phpunit.xml/0.0.1920.1040@0.0.1920.1040" timestamp="1582878038487" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1582876079452">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1582899289614">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582876079452" />
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582899289614" />
     <state width="1877" height="235" key="GridCell.Tab.0.bottom" timestamp="1582877834125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
