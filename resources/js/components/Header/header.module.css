@@ -1,0 +1,24 @@
+.main{
+    border: 2px solid cornflowerblue;
+    margin: 10px;
+}
+
+.main ul{
+    width: 100%;
+    display: flex;
+    padding: 0;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.main ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    transition: .5s;
+}
+
+.main ul li a:hover,
+.main ul li a.active{
+    color: cornflowerblue;
+}
