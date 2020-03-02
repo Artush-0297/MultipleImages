@@ -11,6 +11,6 @@
 |
 */
 
-Route::post('/insert-images', 'IndexController@insertImages');
+Route::post('/upload', 'IndexController@upload')->name('upload');
 
 Route::get('/{name?}','IndexController@index')->where('name','.*');

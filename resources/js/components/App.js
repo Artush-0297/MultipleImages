@@ -20,7 +20,6 @@ class App extends React.Component {
         for(let key in this.state.pictures){
             formData.append(key,this.state.pictures[key]);
         }
-
         axios.post('/insert-images', formData).then(({data}) => {
             if (data.success){
                 alert('Inserted');
@@ -47,5 +46,6 @@ class App extends React.Component {
         );
     }
 }
+
 
 export default App;
