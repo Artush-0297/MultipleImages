@@ -37,7 +37,7 @@
     "dependencies": {
         "@babel/core": "^7.8.6",
         "@babel/preset-env": "^7.8.6",
-        "react-images-upload": "^1.2.8",
+        "react-plupload": "0.0.21",
         "react-router-dom": "^5.1.2"
     }
 }
